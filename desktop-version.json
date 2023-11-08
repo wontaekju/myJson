@@ -1,6 +1,6 @@
 {
 	"modoium-desktop-installer": {
-		"url": "",
-		"version": ""
+		"url": "https://github.com/wontaekju/myJson/releases/download/untagged-76647da309ecb08e34a5/Modoium.Desktop.Installer.23.11.0.exe",
+		"version": "23.11.0"
 	}
 }
